@@ -1,0 +1,78 @@
+[33mcommit 717c3f7dfaf9e84584207075e7539c5f3623e4ed[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 92434ed e598c49
+Author: arielguti <ar_ma_la@hotmail.com>
+Date:   Fri Jul 15 19:31:10 2022 -0300
+
+    Merge pull request #6 from ezcruz22/feature/add-cruz-as-new-member
+    
+    Agregado de texto e imagen en tarjeta 3 - Cruz
+
+[33mcommit e598c493b023e1071d05e85e294c6de82d91043a[m
+Author: Ezequiel Cruz <prgrez210@gmail.com>
+Date:   Fri Jul 15 17:55:01 2022 -0300
+
+    Agregado de texto e imagen en tarjeta 3
+
+[33mcommit 92434edf9aca8e642c9dd99864a9da185a26a819[m
+Merge: 06fea02 f6b52f5
+Author: arielguti <ar_ma_la@hotmail.com>
+Date:   Tue Jul 12 15:25:51 2022 -0300
+
+    Merge pull request #4 from josemartinez1Mojojo7/feature/add-martinez-as-new-member
+    
+    Tarjeta Editada perfil Jose Martinez
+
+[33mcommit f6b52f56619d817c98d2655a1e2d3ea3f2288489[m
+Author: Jose Martinez <joariel17@gmail.com>
+Date:   Tue Jul 12 11:31:44 2022 -0300
+
+    Tarjeta Editada perfil Jose Martinez
+
+[33mcommit 06fea02440d2617ae1959de37973f014baf61099[m[33m ([m[1;33mtag: v0.1.0[m[33m)[m
+Merge: c5b8b48 8ae4c3e
+Author: arielguti <ar_ma_la@hotmail.com>
+Date:   Mon Jul 11 19:51:39 2022 -0300
+
+    Merge pull request #2 from arielguti/dev
+    
+    Párrafos de la tarjeta
+
+[33mcommit 8ae4c3e59c489ed7d4e228649407dd228458ec9a[m[33m ([m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m
+Author: arielguti <ar_ma_la@hotmail.com>
+Date:   Mon Jul 11 19:50:27 2022 -0300
+
+    PÃarrafos de la tarjeta
+
+[33mcommit c5b8b487a8e0f251d051cba69394898e0ab2ffa6[m
+Merge: 6f04096 45cd9c8
+Author: arielguti <ar_ma_la@hotmail.com>
+Date:   Mon Jul 11 19:43:09 2022 -0300
+
+    Merge branch 'master' of https://github.com/arielguti/devtech-podcats-web
+
+[33mcommit 6f04096118af29b6001b3ec7c53ce14b8fc5f87f[m
+Author: arielguti <ar_ma_la@hotmail.com>
+Date:   Mon Jul 11 19:42:16 2022 -0300
+
+    Creación de gitignore
+
+[33mcommit 45cd9c80a8e207d33e9c391324deef50d168547d[m
+Merge: 4dfadae e886184
+Author: arielguti <ar_ma_la@hotmail.com>
+Date:   Mon Jul 11 16:57:32 2022 -0300
+
+    Merge pull request #1 from arielguti/feature/add-podcast-member
+    
+    Modificación tarjeta 1 con datos personales e imagen
+
+[33mcommit e8861840aed65eca76c9e749c79c5a6339d989f0[m[33m ([m[1;31morigin/feature/add-podcast-member[m[33m, [m[1;32mfeature/add-podcast-member[m[33m)[m
+Author: arielguti <ar_ma_la@hotmail.com>
+Date:   Mon Jul 11 16:45:09 2022 -0300
+
+    Modificación tarjeta 1 con datos personales e imagen
+
+[33mcommit 4dfadae78fec1230abe53abe0cd0c56977146273[m
+Author: arielguti <ar_ma_la@hotmail.com>
+Date:   Sat Jul 9 20:48:26 2022 -0300
+
+    Primer commit
